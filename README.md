@@ -66,7 +66,7 @@ sudo apt update
 sudo apt install python3 python3-pip python3-venv xclip git
 
 # Clone the repository
-git clone https://github.com/yourusername/ClipGuard.git
+git clone https://github.com/qusaismael/ClipGuard.git
 cd ClipGuard
 
 # Create virtual environment
@@ -95,7 +95,7 @@ cp clipguard.desktop ~/.config/autostart/
 sudo dnf install python3 python3-pip xclip git
 
 # Clone the repository
-git clone https://github.com/yourusername/ClipGuard.git
+git clone https://github.com/qusaismael/ClipGuard.git
 cd ClipGuard
 
 # Create virtual environment
@@ -124,7 +124,7 @@ cp clipguard.desktop ~/.config/autostart/
 sudo pacman -S python python-pip xclip git
 
 # Clone the repository
-git clone https://github.com/yourusername/ClipGuard.git
+git clone https://github.com/qusaismael/ClipGuard.git
 cd ClipGuard
 
 # Create virtual environment
@@ -158,7 +158,7 @@ yay -S clipguard
 sudo zypper install python3 python3-pip xclip git
 
 # Clone the repository
-git clone https://github.com/yourusername/ClipGuard.git
+git clone https://github.com/qusaismael/ClipGuard.git
 cd ClipGuard
 
 # Create virtual environment
@@ -197,7 +197,7 @@ pip3 --version
 # sudo zypper install xclip    # openSUSE
 
 # Clone and set up
-git clone https://github.com/yourusername/ClipGuard.git
+git clone https://github.com/qusaismael/ClipGuard.git
 cd ClipGuard
 python3 -m venv venv
 source venv/bin/activate
@@ -445,7 +445,7 @@ Contributions are welcome! Here's how you can help:
 
 ```bash
 # Clone your fork
-git clone https://github.com/yourusername/ClipGuard.git
+git clone https://github.com/qusaismael/ClipGuard.git
 cd ClipGuard
 
 # Create virtual environment
