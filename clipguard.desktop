@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=ClipGuard
+Comment=Clipboard Privacy Protection Tool
+Exec=/home/later/Documents/opensource/ClipBoardMaskingLinux/run.sh
+Icon=security-medium
+Terminal=false
+Categories=Utility;Security;
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
+
+
